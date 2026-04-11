@@ -1,0 +1,182 @@
+⚔️ NÍVEL 1 – Fundamentos (sem array)
+🧪 1
+
+👉 Peça um número e mostre:
+
+se é par ou ímpar
+🧪 2
+
+👉 Peça um número e mostre:
+
+se é positivo, negativo ou zero
+🧪 3
+
+👉 Peça dois números e mostre:
+
+qual é o maior
+🧪 4
+
+👉 Peça um número e mostre:
+
+a tabuada dele (1 até 10)
+🧪 5
+
+👉 Conte de 1 até 20 usando for
+
+⚔️ NÍVEL 2 – Condições + Loop
+🧪 6
+
+👉 Mostre os números de 1 até 50:
+
+apenas os pares
+🧪 7
+
+👉 Mostre os números de 1 até 50:
+
+apenas os ímpares
+🧪 8
+
+👉 Mostre a soma de todos os números de 1 até 100
+
+🧪 9
+
+👉 Mostre quantos números de 1 até 100 são pares
+
+🧪 10
+
+👉 Peça um número e:
+
+conte de 1 até ele
+pare quando chegar nesse número
+⚔️ NÍVEL 3 – Lógica mais forte
+🧪 11
+
+👉 Peça um número e diga:
+
+se ele é primo
+🧪 12
+
+👉 Peça um número e:
+
+calcule o fatorial dele
+🧪 13
+
+👉 Peça um número e:
+
+mostre a soma dos dígitos
+(EX: 123 → 1+2+3 = 6)
+🧪 14
+
+👉 Peça um número e:
+
+inverta ele
+(EX: 123 → 321)
+🧪 15
+
+👉 Peça um número e:
+
+diga se ele é palíndromo
+(EX: 121 → true)
+⚔️ NÍVEL 4 – Desafio real
+🧪 16
+
+👉 Gere um número aleatório de 1 a 100
+👉 Faça um jogo:
+
+o usuário tenta adivinhar
+diga “maior” ou “menor” até acertar
+🧪 17
+
+👉 Simule um login:
+
+peça senha até acertar
+máximo 3 tentativas
+
+⚔️ NÍVEL 4 – Continuação
+🧪 18
+
+👉 Peça um número e mostre:
+
+todos os divisores dele
+🧪 19
+
+👉 Peça um número e diga:
+
+quantos divisores ele tem
+🧪 20
+
+👉 Peça dois números:
+
+mostre todos os números entre eles
+⚔️ NÍVEL 5 – Lógica com controle
+🧪 21
+
+👉 Peça números até o usuário digitar 0
+👉 Mostre:
+
+a soma de todos
+🧪 22
+
+👉 Peça números até digitar 0
+👉 Mostre:
+
+quantos números foram digitados
+🧪 23
+
+👉 Peça números até digitar 0
+👉 Mostre:
+
+o maior número digitado
+🧪 24
+
+👉 Peça números até digitar 0
+👉 Mostre:
+
+o menor número digitado
+⚔️ NÍVEL 6 – Mais raciocínio
+🧪 25
+
+👉 Peça um número e mostre:
+
+se ele é perfeito
+(EX: 6 → 1+2+3 = 6)
+🧪 26
+
+👉 Mostre os números de 1 até 100:
+
+que são múltiplos de 3 e 5
+🧪 27
+
+👉 Peça um número e mostre:
+
+a sequência de Fibonacci até ele
+🧪 28
+
+👉 Peça um número e conte:
+
+quantos dígitos ele tem
+⚔️ NÍVEL 7 – Desafios mais “mente de dev”
+🧪 29
+
+👉 Simule um caixa eletrônico:
+
+peça um valor
+mostre quantas notas de:
+100
+50
+20
+10
+5
+2
+1
+🧪 30
+
+👉 Crie um menu:
+
+1 - Somar dois números
+2 - Subtrair
+3 - Multiplicar
+4 - Sair
+
+👉 O usuário escolhe a opção
+👉 o programa continua até escolher sair

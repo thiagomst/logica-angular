@@ -1,0 +1,143 @@
+📘 APOSTILA DE EXERCÍCIOS – LÓGICA COM JAVASCRIPT
+🧠 REGRAS DE USO (IMPORTANTE)
+
+Antes de tudo:
+
+Tente sozinho por 15–20 minutos
+Só depois peça dica
+Nunca copie direto
+Sempre explique o que seu código faz
+🔰 NÍVEL 1 – FUNDAMENTOS (for + if)
+🧪 Exercício 1
+
+Dado:
+
+let numeros = [2, 5, 8, 12, 3]
+
+👉 Mostre todos os números
+
+🧪 Exercício 2
+
+👉 Mostre apenas números maiores que 5
+
+🧪 Exercício 3
+
+👉 Mostre apenas números menores que 10
+
+🧪 Exercício 4
+
+👉 Mostre apenas números pares
+
+🧪 Exercício 5
+
+👉 Mostre apenas números ímpares
+
+⚔️ NÍVEL 2 – CONDIÇÕES COMPOSTAS
+🧪 Exercício 6
+
+👉 Mostre números maiores que 5 e menores que 12
+
+🧪 Exercício 7
+
+👉 Mostre números pares e maiores que 5
+
+🧪 Exercício 8
+
+👉 Mostre números ímpares e menores que 10
+
+🧪 Exercício 9
+
+👉 Mostre números maiores que 5 ou menores que 3
+
+💡 dica: use ||
+
+🔥 NÍVEL 3 – CONTROLE DE FLUXO (break)
+🧪 Exercício 10
+
+👉 Mostre o primeiro número maior que 10 e pare o loop
+
+🧪 Exercício 11
+
+👉 Mostre o primeiro número par e pare
+
+🧪 Exercício 12
+
+👉 Mostre o primeiro número ímpar maior que 5 e pare
+
+🚀 NÍVEL 4 – ACUMULADORES
+🧪 Exercício 13
+
+👉 Some todos os números do array
+
+🧪 Exercício 14
+
+👉 Conte quantos números são maiores que 5
+
+🧪 Exercício 15
+
+👉 Conte quantos números são pares
+
+⚡ NÍVEL 5 – FILTER
+🧪 Exercício 16
+
+👉 Crie um novo array com números maiores que 5
+
+🧪 Exercício 17
+
+👉 Crie um array só com números pares
+
+🧪 Exercício 18
+
+👉 Crie um array com números ímpares maiores que 10
+
+💎 NÍVEL 6 – FIND
+🧪 Exercício 19
+
+👉 Encontre o primeiro número maior que 10
+
+🧪 Exercício 20
+
+👉 Encontre o primeiro número par
+
+🧪 Exercício 21
+
+👉 Encontre o primeiro número ímpar maior que 10
+
+🧪 Exercício 22
+
+👉 Se não encontrar, mostre:
+
+"Nenhum número encontrado"
+🧠 NÍVEL 7 – DESAFIOS REAIS
+🧪 Exercício 23
+
+👉 Encontre o segundo número ímpar do array
+
+🧪 Exercício 24
+
+👉 Retorne o maior número do array
+
+🧪 Exercício 25
+
+👉 Retorne o menor número do array
+
+🧪 Exercício 26
+
+👉 Remova números repetidos de um array
+
+🏆 DESAFIO FINAL (NÍVEL JÚNIOR)
+
+Dado:
+
+let numeros = [5, 7, 7, 12, 14, 15, 15, 20]
+
+👉 Faça um código que:
+
+Mostre apenas números únicos (não repetidos)
+Mostre apenas pares maiores que 10
+Encontre o primeiro valor válido
+Se não existir, mostre mensagem
+📌 COMO USAR ESSA APOSTILA
+Faça 3 a 5 exercícios por dia
+Sempre explique seu código em voz alta
+Me manda suas soluções → eu corrijo
